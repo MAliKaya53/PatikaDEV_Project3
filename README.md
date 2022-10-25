@@ -16,6 +16,12 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
  3)The left and right subtree each must also be a binary search tree.
  
  1.step:
+ 
+ 
  ![1](https://user-images.githubusercontent.com/83914338/197851151-419cc6f0-d62a-4a50-8e26-1169ec90e58d.png)
+ 
+ 2.step:
+ 
+ ![2](https://user-images.githubusercontent.com/83914338/197851425-d3ed417a-8ebe-4e68-892d-ce6fa9bff567.png)
  
 www.patika.dev 
