@@ -15,33 +15,7 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 
  3)The left and right subtree each must also be a binary search tree.
  
- 1.step: 7    ,2.step:   7    ,3.step:      7       ,4.step:         7       ,5.step:         7
-                        /                  /                        / \                      / \
-                       5                  5                        5   8                    5   8
-                                         /                        /                        /
-                                        1                        1                        1
-                                                                                           \
-                                                                                            3
-
-6.step:         7       ,7.step:     7         , 8.step:       7          ,9.step:          7
-               / \                  / \                       / \                          / \
-              5   8                5   8                     5   8                        5   8
-             / \                  / \                       / \   \                      / \   \
-            1   6                1   6                     1   6   9                    1   6   9
-             \                  / \                       / \                          / \
-              3                0   3                     0   3                        0   3
-                                                                                           \
-                                                                                            4
-   
-10.step:          7
-                 / \
-                5   8
-               / \    \
-               1  6    9     
-              / \              
-             0   3    
-                / \
-               2   4
-                
-                
+ 1.step:
+ ![1](https://user-images.githubusercontent.com/83914338/197851151-419cc6f0-d62a-4a50-8e26-1169ec90e58d.png)
+ 
 www.patika.dev 
